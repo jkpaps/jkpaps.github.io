@@ -46,8 +46,8 @@ $(document).ready(function() {
     			{ src: "images/portfolio_3.JPG" },
     			{ src: "images/portfolio_4.JPG" },
     			{ src: "images/portfolio_5.JPG" },
-    			{ src: "images/portfolio_6.jpg" },
-    			{ src: "images/portfolio_7.jpg" }
+    			{ src: "images/portfolio_6.JPG" },
+    			{ src: "images/portfolio_7.JPG" }
     		]
     	});
     }
